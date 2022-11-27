@@ -36,5 +36,5 @@
 
 ## OBR 20 Anos de Curso
 <div>
-  <img width="300" src="obr-20-anos-de-curso/img1.png"/>
+  <img src="obr-20-anos-de-curso/img1.png"/>
 </div>
