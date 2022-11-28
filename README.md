@@ -1,5 +1,7 @@
-# 3d-modeling
-3d modeling using Fusion 360 software
+# 😄 3D Modeling
+3d modeling using Fusion 360 software. Repository with source codes of my youtube channel's Fusion 360 classes
+
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLHF_bS6w72BUdOF4-JPdNU8vJpVZZiU4M)
 
 ## Suporte Motor Encoder
 <div>
