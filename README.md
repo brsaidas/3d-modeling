@@ -3,6 +3,11 @@
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/playlist?list=PLHF_bS6w72BUdOF4-JPdNU8vJpVZZiU4M)
 
+## Robo Encoder
+<div>
+  <img width="300" src="follow-line/img1.jpg"/>
+</div>
+
 ## Suporte Motor Encoder
 <div>
   <img width="300" src="suporte-motor-encoder/img1.jpg"/>
