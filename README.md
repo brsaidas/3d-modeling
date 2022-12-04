@@ -6,6 +6,12 @@
 ## Follow Line
 <div>
   <img width="300" src="follow-line/img1.jpg"/>
+  <img width="300" src="follow-line/img2.jpg"/>
+  <img width="300" src="follow-line/img3.jpg"/>
+  <img width="300" src="follow-line/img4.jpg"/>
+  <img width="300" src="follow-line/img5.jpg"/>
+  <img width="300" src="follow-line/img6.jpg"/>
+  <img width="300" src="follow-line/img7.jpg"/>
 </div>
 
 ## Suporte Motor Encoder
